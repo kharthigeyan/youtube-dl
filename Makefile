@@ -36,6 +36,15 @@ test:
 	#nosetests --with-coverage --cover-package=youtube_dl --cover-html --verbose --processes 4 test
 	nosetests --verbose test
 	$(MAKE) codetest
+	
+	
+	
+	
+	
+	
+	
+	
+
 
 ot: offlinetest
 
